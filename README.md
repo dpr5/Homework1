@@ -36,4 +36,18 @@ THis is a cool site where the images are nicely collected and displayed.  The fe
 layout that doesn't crowd the page with images but instead displays them in a nice layout and has descriptions on 
 the side with a nice javascript effect added on.
 
-8. 
+8. http://www.webleeddesign.com/
+THis is another website just like number 3 where the image on the background changes as you scroll down.  It 
+gives the page an ineresting dynamic interactivity.
+
+9. http://www.pojeta.cz/
+
+I liked this example not because of the website design(which I don't like) but the onclick blur over the images.
+It's in a defferent language but the "about us" "contact" and other buttons are linked to images that are 
+scattered on the page and lead to exploring the rest of the page to find the other buttons.  
+
+10. http://www.authenticstyle.co.uk/
+
+As a fellow artist I liked how organized this developer was.  The use of javascript to display a portfolio was
+a great idea.  It was a neat and tiddy display.  The whole page was a good thing to look at in general.  
+
