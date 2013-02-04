@@ -30,4 +30,10 @@ gets the job done of giving a fun overview of the designer.
 This website has a childish look to it but it still works in my opinion of producing a nice webpage.
 It would have been fun if it were interactive but still had an interesting layout and design.
 
-7. 
+7. http://www.dibusoft.com/
+
+THis is a cool site where the images are nicely collected and displayed.  The feature on the right side has a nice
+layout that doesn't crowd the page with images but instead displays them in a nice layout and has descriptions on 
+the side with a nice javascript effect added on.
+
+8. 
